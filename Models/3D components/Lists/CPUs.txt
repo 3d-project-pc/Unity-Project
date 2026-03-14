@@ -1,0 +1,13 @@
+CPUs:
+
+Intel Core 2 Duo E7600
+
+Intel Core i7-860
+
+Intel Core i7-4820K
+
+Intel Pentium 4
+
+Intel Xeon E7-4870
+
+Intel Xeon Silver 4114
